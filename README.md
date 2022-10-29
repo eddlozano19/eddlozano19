@@ -7,4 +7,6 @@ Javascript, Ionic, Angular, C# Net Core, SDK SAP Business One, Laravel, NodeJS, 
 
 
 ### Social
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eduardolq19)
+
+- [TWITTER](https://twitter.com/eduardolq19)
+- [EDD](https://eddlozano.com)
